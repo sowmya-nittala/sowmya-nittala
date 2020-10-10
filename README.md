@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+<b> SOWMYA NITTALA <b>
 
 <!--
 **sowmya-nittala/sowmya-nittala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

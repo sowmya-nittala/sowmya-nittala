@@ -1,11 +1,11 @@
-### Hi! I'm Sowmya Nittala and I am currently pursuing my Master's in Computer Science at New York UNiversity (NYU). 
-I'm actively looking for full-time SDE roles from May 2021. 
+### Hi! I'm Sowmya Nittala.
+I am currently pursuing my Master's in Computer Science at New York UNiversity (NYU). <img src="https://drive.google.com/file/d/1ZX3pPyBuxtxjGnKPh9kjguSQWR7wPwk3/view?usp=sharing"/><br>
+I'm actively looking for full-time SDE roles from May 2021. <br>
+Here's my <a href="https://drive.google.com/file/d/1oqeUd89XEveBqwXawuCAGNOW7sATV9fm/view?usp=sharing"> Resume! </a>
 
 
 
-
-
-If You have any opportunities for me, please reach out to me at: sowmya.nittala@gmail.com
+If You have any opportunities for me, please reach out at: sowmya.nittala@gmail.com
 
 <!--
 **sowmya-nittala/sowmya-nittala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

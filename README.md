@@ -1,5 +1,4 @@
-### Hi! I'm Sowmya Nittala. <img align="right" alt="GIF" src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?raw=true" width="500" height="320" />
- 
+### Hi! I'm Sowmya Nittala. 
 :mortar_board: I am currently pursuing my Master's in Computer Science at New York UNiversity (NYU) <br>
 :mag: I'm actively looking for full-time SDE roles from May 2021. <br>
 :page_facing_up:   Here's my <a href="https://drive.google.com/file/d/1oqeUd89XEveBqwXawuCAGNOW7sATV9fm/view?usp=sharing"> Resume! </a> <br>
